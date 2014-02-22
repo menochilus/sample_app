@@ -36,6 +36,7 @@ production:
   encoding: utf8
   reconnect: false
   database: sample_app_production
+  host: 127.0.0.1
   pool: 5
   username: root
   password:
